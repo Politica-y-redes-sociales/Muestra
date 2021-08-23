@@ -1,0 +1,1 @@
+Rscript /Users/usuario/Desktop/Observatorio/Twitter/ProgramasenR/Muestra/Muestra2.R
